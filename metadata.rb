@@ -1,9 +1,9 @@
 name             'loganov-vagrant'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Loganov Industries, LLC'
+maintainer_email 'devops@loganov.com'
 license          'All rights reserved'
 description      'Installs/Configures loganov-vagrant'
 long_description 'Installs/Configures loganov-vagrant'
-version          '0.1.0'
+version          '0.1.1'
 
 depends          'vagrant'
